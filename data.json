@@ -1,0 +1,101 @@
+{
+    "members": {
+        "123456789": {
+            "nome": "Exemplo Usu\u00c3\u00a1rio",
+            "pontos": 0,
+            "spoiler": null,
+            "livros": [],
+            "aniversario": "01/01"
+        },
+        "1087235513": {
+            "nome": "@myidbot",
+            "pontos": 0,
+            "spoiler": null,
+            "livros": [],
+            "aniversario": null
+        }
+    },
+     "poll_questions": [
+        {
+            "question": "Qual seu livro favorito da autora?",
+            "options": ["O Caos que Nos Rodeia", "Dark Haven", "Salve a Santa em Nome da Queda"]
+        },
+        {
+            "question": "Qual personagem você mais ama?",
+            "options": ["Jason", "Avenon", "Willian", "Outro"]
+        },
+        {
+            "question": "Quer spoilers do próximo livro?",
+            "options": ["Sim", "Não", "Talvez"]
+        },
+        {
+            "question": "Qual tema você quer ver na próxima história?",
+            "options": ["Romance", "Aventura", "Mistério", "Fantasia"]
+        },
+        {
+            "question": "Como você conheceu este grupo?",
+            "options": ["Redes sociais", "Indicação de amigo", "Pesquisando sobre a autora", "Outro"]
+        },
+        {
+            "question": "Qual seu personagem preferido de todos os livros?",
+            "options": ["Caius", "Kelheit", "Ezel", "Outro"]
+        },
+        {
+            "question": "Qual cena marcou mais sua leitura?",
+            "options": ["A grande batalha no fim de salve a santa em nome da queda", "Cena romântica do encontro do Lis e do Avenon", "Reviravolta inesperada no fim de o caos que nos rodeia", "Outro"]
+        },
+        {
+            "question": "Se pudesse entrar no universo do livro, qual personagem seria?",
+            "options": ["Eve", "Chelsea", "Kendra", "Outro"]
+        },
+        {
+            "question": "Qual livro você leu recentemente da autora?",
+            "options": ["um ceo em minha vida", "rally", "a bruxa de wintrefalls", "Ainda não li"]
+        },
+        {
+            "question": "Você prefere histórias com mais romance ou aventura?",
+            "options": ["Romance", "Aventura", "Equilibrado", "Outro"]
+        },
+        {
+            "question": "Qual tipo de conteúdo você quer ver no grupo?",
+            "options": ["Curiosidades", "Spoilers", "Novidades da autora", "Promoções"]
+        },
+        {
+            "question": "Você gosta de debates sobre personagens?",
+            "options": ["Sim, sempre", "Às vezes", "Não muito", "Nunca"]
+        },
+        {
+            "question": "Qual personagem você gostaria de ver mais nas histórias?",
+            "options": ["Caius", "Kelheit", "Ezel", "Outro"]
+        },
+        {
+            "question": "Você participa de leituras coletivas?",
+            "options": ["Sim", "Não", "Nunca participei", "Gostaria de participar"]
+        },
+        {
+            "question": "Qual gênero literário você mais gosta?",
+            "options": ["Dark romance", "Romantasia", "Mistério", "Fantasia"]
+        },
+        {
+            "question": "Você assina a newsletter da autora?",
+            "options": ["Sim", "Não", "Ainda não", "Pretendo assinar"]
+        },
+        {
+            "question": "Qual tipo de desafio você quer no grupo?",
+            "options": ["Enquetes", "Sorteios", "Debates", "Atividades literárias"]
+        },
+        {
+            "question": "Você prefere ler em formato digital ou físico?",
+            "options": ["Digital", "Físico", "Ambos", "Indiferente"]
+        },
+        {
+            "question": "Você já recomendou os livros para alguém?",
+            "options": ["Sim", "Não", "Ainda não", "Pretendo recomendar"]
+        },
+        {
+            "question": "Você quer mais spoilers ou surpresas?",
+            "options": ["Spoilers", "Surpresas", "Depende", "Ambos"]
+        }
+    ],
+    "chat_ids": []
+}
