@@ -7,7 +7,10 @@ import json
 import datetime
 import random
 
-TOKEN = "8327680615:AAHZZcDQNCIEe4kCavKBLicInWHzDboUp2g" 
+import os
+
+TOKEN = os.getenv("TOKEN")
+
 DATA_FILE = "data.json"
 
 # --- Funções para manipulação do JSON ---
